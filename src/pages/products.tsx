@@ -12,11 +12,9 @@ const Products: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>
-        Nossos Produtos
-      </h1>
+      <h1>Nossos Produtos</h1>
     </>
-  )
-}
+  );
+};
 
-export default Products
+export default Products;
