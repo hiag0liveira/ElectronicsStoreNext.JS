@@ -4,7 +4,7 @@ A **Loja de Eletrônicos** é uma aplicação web desenvolvida com **Next.js** e
 
 # 🚀 Demo
 
-Acesse em: https://black-nextjs-lemon.vercel.app/ ou [clique aqui]([https://black-nextjs-lemon.vercel.app/])
+Acesse em: https://black-nextjs-lemon.vercel.app/ ou [clique aqui](https://black-nextjs-lemon.vercel.app/)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -50,3 +50,5 @@ yarn dev
 ```
 
 A aplicação estará disponível em **http://localhost:3000/**.
+
+
